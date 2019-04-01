@@ -7,6 +7,7 @@
     <version>0.0.1</version>
     <modules>
         <module>confsrv</module>
+        <module>licensingservice</module>
     </modules>
     <artifactId>my-spmia-exercises</artifactId>
     <packaging>pom</packaging>
